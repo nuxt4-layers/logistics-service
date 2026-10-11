@@ -1,1 +1,1 @@
-# logistics-service
+# @nuxt4-layers/logistics-service
